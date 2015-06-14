@@ -10,15 +10,18 @@
 		android:id="@+id/song_title"
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
-		android:textColor="#fff"
-		android:textSize="20sp"
+		android:textColor="#190718"
+		android:textSize="18sp"
+
 		android:textStyle="bold" />
 
 	<TextView
 		android:id="@+id/song_artist"
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
-		android:textColor="#fff"
-		android:textSize="18sp" />
+		android:textColor="#7E8080"
+		android:textSize="14sp" />
+
+
 
 </LinearLayout>
